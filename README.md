@@ -1,6 +1,6 @@
 == Welcome to Rails
 
-[![Thing](http://dev-badge.codercompanion.com.s3-website-us-west-2.amazonaws.com/github_com_mongodb_mongoid/badge_2.svg)](http://codercompanion.com)
+[![Parse percentage](http://dev-badge.codercompanion.com.s3-website-us-west-2.amazonaws.com/github_com_mongodb_mongoid/badge_1.svg)](http://localhost:9000/#/project/view/github_com_mongodb_mongoid)  
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
 
