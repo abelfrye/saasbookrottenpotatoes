@@ -1,21 +1,25 @@
 == Welcome to Rails
 
 Markdown (.md)
+
 [![Parse percentage](http://dev-badge.codercompanion.com.s3-website-us-west-2.amazonaws.com/github_com_edwardcapriolo_gossip/badge_1.svg)](http://localhost:9000/#/project/view/github_com_edwardcapriolo_gossip)
 
 Rdoc (.rdoc)
+
 {<img src="http://dev-badge.codercompanion.com.s3-website-us-west-2.amazonaws.com/github_com_edwardcapriolo_gossip/badge_1.svg" alt="Build Status" />}[https://travis-ci.org/travis-ci/travis-web]
 
 Textile (.textile)
+
 !http://dev-badge.codercompanion.com.s3-website-us-west-2.amazonaws.com/github_com_edwardcapriolo_gossip/badge_1.svg!:http://localhost:9000/#/project/view/github_com_edwardcapriolo_gossip
 
 AsciiDoc (.asciidoc, .asc, .adoc)
+
 image:http://dev-badge.codercompanion.com.s3-website-us-west-2.amazonaws.com/github_com_edwardcapriolo_gossip/badge_1.svg["Parse percentage", link="http://localhost:9000/#/project/view/github_com_edwardcapriolo_gossip"]
 
 RST (.rst)
 
-.. image:: https://travis-ci.org/travis-ci/travis-web.svg?branch=master
-    :target: https://travis-ci.org/travis-ci/travis-web
+.. image:: http://dev-badge.codercompanion.com.s3-website-us-west-2.amazonaws.com/github_com_edwardcapriolo_gossip/badge_1.svg
+	:target: http://localhost:9000/#/project/view/github_com_edwardcapriolo_gossip
 
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
