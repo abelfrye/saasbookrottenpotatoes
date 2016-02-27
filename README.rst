@@ -12,6 +12,10 @@ Textile (.textile)
 AsciiDoc (.asciidoc, .asc, .adoc)
 image:http://dev-badge.codercompanion.com.s3-website-us-west-2.amazonaws.com/github_com_edwardcapriolo_gossip/badge_1.svg["Parse percentage", link="http://localhost:9000/#/project/view/github_com_edwardcapriolo_gossip"]
 
+RST (.rst)
+.. image:: https://travis-ci.org/travis-ci/travis-web.svg?branch=master
+    :target: https://travis-ci.org/travis-ci/travis-web
+
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
 
