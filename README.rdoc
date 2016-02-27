@@ -1,7 +1,5 @@
 == Welcome to Rails
 
-[![Parse percentage](http://dev-badge.codercompanion.com.s3-website-us-west-2.amazonaws.com/github_com_mongodb_mongoid/badge_1.svg)](http://localhost:9000/#/project/view/github_com_mongodb_mongoid)  
-
 {<img src="http://dev-badge.codercompanion.com.s3-website-us-west-2.amazonaws.com/github_com_edwardcapriolo_gossip/badge_1.svg" alt="Parse percentage" />}[http://localhost:9000/project/view/github_com_edwardcapriolo_gossip]
 
 {<img src="https://travis-ci.org/travis-ci/travis-web.svg?branch=master" alt="Parse percentage" />}[http://localhost:9000/project/view/github_com_edwardcapriolo_gossip]
